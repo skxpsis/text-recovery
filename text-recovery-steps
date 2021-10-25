@@ -1,0 +1,15 @@
+# steps for manual recovery
+# code underway to automate this
+
+1) Browser must not be closed in which the text was lost
+2) Open Chrome Task Manager (Shift+Esc)
+3) Find the tab that contained the text you have lost
+4) Copy the Process ID associated with it
+5) Open Windows Task Manager (Ctrl+Shift+Esc)
+6) Navigate to the "Details" tab
+7) Find the PID that matches the Process ID that you previously found
+8) Right click the PID that matches and select "Create Dump File"
+9) For me, this file was created here:
+   C:\Users\username\AppData\Local\Temp\chrome.dmp
+   If you have trouble locating the file, try searching your AppData directory for the file name (chrome.dmp)
+10) Open the file in a simple text editor like Notepad or Notepad++ and search (Ctrl+F) for any text you remember your lost text containing
