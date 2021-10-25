@@ -1,3 +1,4 @@
+# github: @skxpsis
 # steps for manual recovery
 # code underway to automate this
 
@@ -13,3 +14,4 @@
    C:\Users\username\AppData\Local\Temp\chrome.dmp
    If you have trouble locating the file, try searching your AppData directory for the file name (chrome.dmp)
 10) Open the file in a simple text editor like Notepad or Notepad++ and search (Ctrl+F) for any text you remember your lost text containing
+    * You may need to piece the text together, but it should all be there
