@@ -1,7 +1,7 @@
 # text-recovery
-How to recover recently lost text via browser.
+How to recover recently lost text in Chrome.
 
-Scenario: You're enrolled in a class and have to partake in dicussions via online forum. When typing out your discussion response in a shitty text box, your connection to your institution is disrupted, or you accidentally navigate away from the page. Either way, something happened and you lost all your work. This happened to me, and this is how I retrieved all my lost work.
+Scenario: You're enrolled in a class and have to partake in dicussions via online forum. When typing out your discussion response in a shitty text box, your connection to your institution is disrupted, or you accidentally navigate away from the page. Either way, something happened and you lost all your work. This happened to my clumsy ass, and this is how I retrieved all my lost work.
 
 Conditions:
 - Important: Browser tab in which the text was lost can not be closed
